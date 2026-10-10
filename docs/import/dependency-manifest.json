@@ -1,0 +1,35 @@
+{
+  "zip": "portfolio-dependencies.zip",
+  "zip_bytes": 4838,
+  "zip_sha256": "7a754a3f88487fafa75dbe3045f3695aaa02d91ee23e8299213f312ad488849a",
+  "file_count": 4,
+  "total_uncompressed_bytes": 7471,
+  "generated_at": "2026-10-10T15:17:46+08:00",
+  "source_paths": [
+    "/home/ubuntu/dev-projects/auth/shared.py",
+    "/home/ubuntu/dev-projects/auth/db.py",
+    "/home/ubuntu/dev-projects/auth/__init__.py"
+  ],
+  "files": [
+    {
+      "path": "DEPENDENCY-NOTES.md",
+      "bytes": 4224,
+      "sha256": "eaa59004f7dbdfdaee19847ab19de176e9fe856a7148f8d0f2eaca36becd947e"
+    },
+    {
+      "path": "references/auth/__init__.py",
+      "bytes": 15,
+      "sha256": "bff92c419565becbdb89349f9b2235fb4cff068f6668a720912bf61352bcc107"
+    },
+    {
+      "path": "references/auth/db.py",
+      "bytes": 1617,
+      "sha256": "f886c0a18a17da81f0ed211afe3a19635a0be595502329212d01b7f9a599fb32"
+    },
+    {
+      "path": "references/auth/shared.py",
+      "bytes": 1615,
+      "sha256": "7958532bf602c11cbcbc8f97123a75dd2a28f56897e48f53a2fca4829389be11"
+    }
+  ]
+}

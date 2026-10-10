@@ -1,0 +1,10 @@
+{
+  "schema_sha256": "3b9508be6c5264975794435934dddee4f2ca7e3d4813a6d1725960b275fe32a8",
+  "schema_verified_tables": [
+    "config",
+    "projects"
+  ],
+  "source_archives_verified": true,
+  "python_syntax_files": 8,
+  "local_service_started": false
+}

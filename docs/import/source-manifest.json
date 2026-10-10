@@ -1,0 +1,60 @@
+{
+  "zip": "personal-site-source.zip",
+  "zip_bytes": 19464,
+  "zip_sha256": "7e1f79062d1580c72a8d13980a50f74c7580783083794ed3c5612de14da8047e",
+  "file_count": 10,
+  "total_uncompressed_bytes": 51245,
+  "generated_at": "2026-10-10T15:14:41+08:00",
+  "files": [
+    {
+      "path": ".gitignore",
+      "bytes": 231,
+      "sha256": "bb6cbfbc6c3488925d6e21363f296c321a491ee53408c0693d193e35565ecc5a"
+    },
+    {
+      "path": "EXPORT-NOTES.md",
+      "bytes": 2342,
+      "sha256": "fb8a61a3d529427eb5ad2bd1e557c421ca0039503f7f105a1bfa0c469530e214"
+    },
+    {
+      "path": "app.py",
+      "bytes": 7036,
+      "sha256": "e57132015992420fafd1d7a78552e4e8d107989ad5880e1de30b27b22d952b55"
+    },
+    {
+      "path": "data.json",
+      "bytes": 12173,
+      "sha256": "2302d54485e3157d284a7dc2a948d90bd2bc76b7f75e38b133ad7c818ae37ec4"
+    },
+    {
+      "path": "db.py",
+      "bytes": 2131,
+      "sha256": "51212c123314a7836404ba7afc94135739a5315a4312ef8f0bdb1d819066adc7"
+    },
+    {
+      "path": "demos/.gitkeep",
+      "bytes": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "path": "models.py",
+      "bytes": 1302,
+      "sha256": "9807a1297690a28802f1287425b292d44a2b71eb748ffd6ce596967c6f1fe8de"
+    },
+    {
+      "path": "projs/.gitkeep",
+      "bytes": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "path": "templates.py",
+      "bytes": 18236,
+      "sha256": "d3d25b8ea9dc82c9999cabf51bbe956127e019767485411bbd685f83d0434ee4"
+    },
+    {
+      "path": "web.py",
+      "bytes": 7794,
+      "sha256": "9d01145c529eebd2df9d0d5d8f4ae129b00c8fcbc8aef31ac46ba19957ca52d4"
+    }
+  ]
+}

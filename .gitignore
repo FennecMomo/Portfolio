@@ -1,0 +1,15 @@
+__pycache__/
+*.pyc
+*.sqlite
+*.db
+.env
+.venv/
+venv/
+
+# projs 内的数据/资源不入库
+projs/interview/*.db
+projs/interview/*.db-shm
+projs/interview/*.db-wal
+projs/interview/__pycache__/
+projs/interview/res/
+projs/*/__pycache__/
